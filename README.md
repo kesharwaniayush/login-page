@@ -21,9 +21,6 @@ Download or clone the repository.
 Open index.html in any web browser.
 Enter a username and password to test the validation.
 
-📸 Optional Screenshot
-Add a screenshot of your login page here if you like.
-
 🙋‍♂️ Author
 Ayush Kesharwani
 Frontend Developer
