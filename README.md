@@ -50,8 +50,10 @@ You can extend this project by adding:
 - Password strength meter
 - API integration
 - Enhanced UI/UX
+- ayush kesharwani
 
 ---
 
 ## 📜 License
 This project is free to use and modify for educational or personal purposes.
+
